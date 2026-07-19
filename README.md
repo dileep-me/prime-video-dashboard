@@ -4,14 +4,6 @@
 
 This repository contains the Power BI dashboard for Prime Video. The dashboard provides insights into various metrics such as viewership trends, content performance, user demographics, and more. It is designed to help stakeholders understand the key factors influencing user engagement and content consumption on the platform.
 
-## Table of Contents
-
-- [Data Sources](#data-sources)
-- [Key Metrics](#key-metrics)
-- [Visualizations](#visualizations)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Data Sources
 
@@ -41,22 +33,8 @@ The dashboard includes the following visualizations:
 - **Genre Popularity**: A heatmap showing the popularity of different genres.
 - **Retention Curve**: A chart showing user retention rates over time.
 
-## How to Use
 
-To view the dashboard:
 
-1. Download the `.pbix` file from this repository.
-2. Open the file using Power BI Desktop.
-3. Explore the different tabs and visualizations to gain insights into Prime Video's performance.
 
-## Contributing
-
-Contributions are welcome! If you would like to improve the dashboard or suggest new features:
-
-1. Fork this repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
 
 
